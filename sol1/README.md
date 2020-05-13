@@ -2,3 +2,6 @@
 
 
 ![artifactory build; base](2_artifactory_build_base.png)
+
+
+![가점1; fork-imdjango](bonus1_sol1_base.png)
